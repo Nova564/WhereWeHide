@@ -92,4 +92,28 @@ Due to time constraints and limited experience, the atmosphere is intentionally 
 - C#
 - PC (Keyboard & Controller)
 
+## Team & Contributions
+
+This project was developed in collaboration with another developer.
+
+### My Contributions
+
+* Player core movement system
+* Advanced player mechanics (glide, climbing, object pushing)
+* Puzzle design and implementation
+* Quest system
+* Dialogue system and lore writing
+* Checkpoint system
+* General gameplay logic and interactions
+
+### Teammate Contributions
+
+* Enemy design and implementation
+* Enemy AI (visual detection)
+* Level design
+* Environment layout and pacing
+
+Although this repository is a fork for organizational purposes, the project itself was fully created by our team, with the responsibilities clearly divided as described above.
+
+
 
